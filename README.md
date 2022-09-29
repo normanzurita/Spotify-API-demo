@@ -1,4 +1,4 @@
-# Music Advisor
+# Spotify API Demo
 
 A music advisor written Java using the Spotify API.
 
